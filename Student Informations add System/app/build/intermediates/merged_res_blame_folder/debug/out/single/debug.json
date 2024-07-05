@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudentMgt\\app\\build\\intermediates\\merged_res\\debug\\menu_student_main.xml.flat",
+        "source": "D:\\AndroidStudentMgt\\app\\src\\main\\res\\menu\\student_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudentMgt\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_student_main.xml.flat",
+        "source": "D:\\AndroidStudentMgt\\app\\src\\main\\res\\layout\\activity_student_main.xml"
+    }
+]
